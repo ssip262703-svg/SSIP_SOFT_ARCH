@@ -1,0 +1,1 @@
+# SSIP_SOFT_ARCH
